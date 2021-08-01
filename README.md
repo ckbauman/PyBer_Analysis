@@ -37,7 +37,7 @@ Our summary results include data for rides, drivers, fares, average fare per rid
 
 !["summary"](https://github.com/ckbauman/PyBer_Analysis/blob/main/Summary.png)
 
-We can see that most rides come from the Urbaan areas with very few rural rides.  Rides fares are generallly more expensive in rural areas because it isn't as cost effective to drive to rural areas.  Drivers don't make as much in Urban areas as they do in Rural areas either.
+We can see that most rides come from the Urban areas with very few Rural rides.  Ride fares are generally more expensive in rural areas because it isn't as cost effective to drive to rural areas.  Drivers don't make as much in Urban areas as they do in Rural areas either.
 
 ### Total Weekly Fares Results
 
@@ -45,27 +45,27 @@ Weekly results were calculated with date, fare and city type.
 
 1. Create DataFrame for type, date and fare
 
-INSERT: dataframe fares
+!["dataframe fares"](https://github.com/ckbauman/PyBer_Analysis/blob/main/dataframe_fares.png)
 
 2. Reset index  and create a pivot table with date as index, column type and value fare
 
-INSERT: pivot type
+!["pivot type"](https://github.com/ckbauman/PyBer_Analysis/blob/main/pivot_type.png)
 
 3. Create DataFrame for date range
 
-INSERT: dataframe date
+!["dataframe date"](https://github.com/ckbauman/PyBer_Analysis/blob/main/dataframe_date.png)
 
 4. Change date index to datetime and check it
 
-INSERT: index date
+!["index date"](https://github.com/ckbauman/PyBer_Analysis/blob/main/index_date.png)
 
 5. Create DataFrame by week
 
-INSERT:  dataframe week
+!["dataframe week"](https://github.com/ckbauman/PyBer_Analysis/blob/main/dataframe_week.png)
 
 6. Create chart with weekly data
 
-INSERT: chart code
+!["chart code"](https://github.com/ckbauman/PyBer_Analysis/blob/main/chart_code.png)
 
 7. Total Fares by City Type 
 
