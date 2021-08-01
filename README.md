@@ -35,7 +35,7 @@ Our summary results include data for rides, drivers, fares, average fare per rid
 
 6. Summary
 
-INSERT: summary
+!["summary"](https://github.com/ckbauman/PyBer_Analysis/blob/main/summary.png)
 
 We can see that most rides come from the Urbaan areas with very few rural rides.  Rides fares are generallly more expensive in rural areas because it isn't as cost effective to drive to rural areas.  Drivers don't make as much in Urban areas as they do in Rural areas either.
 
