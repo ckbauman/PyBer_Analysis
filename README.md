@@ -27,11 +27,11 @@ Our summary results include data for rides, drivers, fares, average fare per rid
 
 4. Average fare per ride:
 
-INSERT: avg_fare_ride
+!["avg_fare_ride"](https://github.com/ckbauman/PyBer_Analysis/blob/main/avg_fare_ride.png)
 
 5. Average fare per driver:
 
-INSERT: avg_fare_driver
+!["avg fare driver"](https://github.com/ckbauman/PyBer_Analysis/blob/main/avg_fare_driver.png)
 
 6. Summary
 
