@@ -15,7 +15,7 @@ Our summary results include data for rides, drivers, fares, average fare per rid
 
 1. Total rides by city type:
 
-INSERT: rides
+!["rides"](https://github.com/ckbauman/PyBer_Analysis/blob/main/rides.png)
 
 2. Total drivers by city type:
 
