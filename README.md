@@ -69,7 +69,7 @@ Weekly results were calculated with date, fare and city type.
 
 7. Total Fares by City Type 
 
-INSERT:  fig8
+!["chart image"](https://github.com/ckbauman/PyBer_Analysis/blob/main/analysis/Fig8.png)
 
 As you can see, Urban fares are higher then Surburban and Rural Fares.  They stay this way month over month.  Rural fares always remain low and consistently stay this way.
 
