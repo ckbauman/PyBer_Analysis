@@ -3,7 +3,7 @@ Module 5
 
 ## Overview
 
-We are reviewing ride-shareing data based on city type of Urban, Suburban and Rural.  Additional information in this dataset includes City name, date of ride, fare, ride ID and driver count.
+We are reviewing ride-sharing data based on city type of Urban, Suburban and Rural.  Additional information in this dataset includes City name, date of ride, fare, ride ID and driver count.
 
 We have been asked to find total weekly fares for each city type.  The date ranges will be for January 1 to April 29, 2019.
 
